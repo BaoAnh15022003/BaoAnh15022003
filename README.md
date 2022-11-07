@@ -1,4 +1,4 @@
-Xin chào đây là nhóm của tụi mình với đề tài là game đua xe Code trên C++
+Xin chào đây là nhóm của tụi mình là nhóm 3 với đề tài là game đua xe Code trên C++
 Thành viên nhóm mình gồm:
 Nguyễn Hùng Anh Vũ
 CQ.62.KTD 
