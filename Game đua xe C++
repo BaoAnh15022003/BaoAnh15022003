@@ -108,7 +108,7 @@ void instructions(){
 	cout<<"\n----------------";
 	cout<<"\n Tranh xe khac bang 2 phim:. ";
 	cout<<"\n\n Bam 'a' de di sang trai";
-	cout<<"\n Bam 'b' de di sang phai";
+	cout<<"\n Bam '' de di sang phai";
 	cout<<"\n\nBam phim bat ki de tro menu";
 	getch();
 }
